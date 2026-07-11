@@ -1,5 +1,7 @@
 # Lorenzo Paludett — Portfolio
 
+(Projeto em adamento...)
+
 Bilingual (PT/EN) editorial portfolio. Next.js App Router + TypeScript + Tailwind CSS.
 
 ## Run
